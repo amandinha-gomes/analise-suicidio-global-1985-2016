@@ -18,31 +18,31 @@
 
 ## 🗂️ Base de Dados
 
-- Fonte: Kaggle
+- **Fonte**: Kaggle
 
-- Período: 1985 a 2016
+- **Período**: 1985 a 2016
 
-- Granularidade: País, ano, gênero e faixa etária
+- **Granularidade**: País, ano, gênero e faixa etária
 
-- Principais variáveis:
+**Principais variáveis:**
 
-  - pais — País de ocorrência
+  - `pais` — País de ocorrência
 
-  - ano — Ano da observação
+  - `ano` — Ano da observação
 
-  - sexo — Masculino / Feminino
+  - `sexo` — Masculino / Feminino
 
-  - faixa_etaria — Faixa etária da população
+  - `faixa_etaria` — Faixa etária da população
 
-  - numero_suicidios — Número absoluto de suicídios
+  - `numero_suicidios` — Número absoluto de suicídios
 
-  - populacao — População do grupo
+  - `populacao` — População do grupo
 
-  - suicidios_por_100k — Taxa de suicídio por 100 mil habitantes
+  - `suicidios_por_100k` — Taxa de suicídio por 100 mil habitantes
 
-  - pib_per_capita_usd — PIB per capita (USD)
+  - `pib_per_capita_usd` — PIB per capita (USD)
 
-  - geracao — Geração demográfica
+  - `geracao` — Geração demográfica
 
 ## 🧹 Tratamento e Preparação dos Dados
 
@@ -70,6 +70,18 @@
 🔹 Relação com PIB per capita
 
   - Análise exploratória da relação entre desenvolvimento econômico e taxas de suicídio, mostrando que fatores econômicos isolados não explicam o fenômeno.
+
+## 📊 Exemplo de Resultados
+
+Ao longo da análise, foram exploradas tendências temporais e diferenças entre grupos populacionais.
+O gráfico abaixo ilustra a tendência global da taxa média de suicídios por 100 mil habitantes entre 1985 e 2016:
+
+### Tendência Global das Taxas de Suicídio (1985–2016)
+
+![Tendência Global de Suicídios](images/tendencia_global_suicidios.png)
+
+📌 Observa-se um crescimento gradual das taxas até o início dos anos 2000, seguido por períodos de estabilização e queda, possivelmente associados a políticas públicas, mudanças sociais e avanços na área da saúde mental.
+
 
 ## 🧠 Principais Insights
 
