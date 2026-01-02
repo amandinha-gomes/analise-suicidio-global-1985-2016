@@ -82,6 +82,12 @@ O gráfico abaixo ilustra a tendência global da taxa média de suicídios por 1
 
 📌 Observa-se um crescimento gradual das taxas até o início dos anos 2000, seguido por períodos de estabilização e queda, possivelmente associados a políticas públicas, mudanças sociais e avanços na área da saúde mental.
 
+### Suicídio por Genêro
+
+![Tendência Global de Suicídios](images/suicidios_por_genero.png)
+
+📌 Homens apresentam taxas consistentemente mais elevadas de suicídio em comparação às mulheres ao longo de todo o período analisado.
+
 ## 🧠 Principais Insights
 
 - Homens apresentam taxas de suicídio significativamente mais altas em comparação às mulheres
